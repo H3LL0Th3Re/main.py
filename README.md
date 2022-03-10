@@ -1,1 +1,2 @@
-# First python project
+# Snake game python project
+
